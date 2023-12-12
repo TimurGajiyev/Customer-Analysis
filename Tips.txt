@@ -1,0 +1,30 @@
+Use the real life SQL table with upfate button or API system connected with Python or use predetermined time system (update the base every 10 minutes)
+
+Display the data table.
+Make summary of the data table with new table showing: data type, #missing, %missing,#unique, min, max, first value, second value, third value or  what makes sense.
+
+
+Function or functions for:
+Replace with thresholds?
+Deal with missing values
+Find cancelled orderds and their quantity 
+Replace outliers
+Total price 
+(Show all of this in the new table)
+
+
+Exploratory Data Analysis
+Purchase sum grouped by x
+Most purchased places
+Meaningful plot figures for: Highest Purchase History and Lowest
+Show all of that data in a plot
+Top popular products (x - products, y - total quantity) -  choose graph
+Best Customers (x - CustomerID, y - total amount in money ) - bar plot
+Worst Customers (x - CustomerID, y - total amount in money ) - bar plot
+
+
+Recency, frequency and monetary value analysis
+Min and Max dates
+Create table for recency, frequency, monetary as columns, then create _Score for each of them wih RF last column
+
+
