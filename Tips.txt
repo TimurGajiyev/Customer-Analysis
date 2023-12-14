@@ -27,4 +27,6 @@ Recency, frequency and monetary value analysis
 Min and Max dates
 Create table for recency, frequency, monetary as columns, then create _Score for each of them wih RF last column
 
+Give best and worst customers some rewards to reinforce thier loyalty 
+
 
